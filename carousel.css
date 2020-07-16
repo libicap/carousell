@@ -1,0 +1,31 @@
+.carousellMainDiv {
+    position: relative;
+}
+
+.salespic {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousellDiv {
+    height: 500px;
+    display: flex;
+}
+
+.salespic {
+    height: 100%;
+}
+
+.controls {
+    width: 100%;
+    top: 50%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+
+.btn {
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+}
